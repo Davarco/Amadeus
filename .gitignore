@@ -1,3 +1,4 @@
-music/*/*.wav
+music/*/*
+music/*.mf
 *.h5
 data/*.h5
